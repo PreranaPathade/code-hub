@@ -1,2 +1,6 @@
 Line 1
+<<<<<<< HEAD
 Change from branchA
+=======
+Change from branchB
+>>>>>>> branchB
